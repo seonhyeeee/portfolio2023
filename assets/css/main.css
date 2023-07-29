@@ -2572,3 +2572,14 @@ body.is-preload #sidebar nav ul li {
 .copyright{
 	font-size: 10px;
 }
+
+/* designer */
+.designer{
+	font-size: 13px;
+	line-height: 130%;
+}
+@media screen and (max-width: 1280px) {
+	.designer{
+		display: none;
+	}
+}
